@@ -6,8 +6,8 @@ homepage: https://github.com/zino-app/graphql-flutter/tree/master/packages/graph
 publish_to: none
 
 dependencies:
-  graphql: # 5.0.0-nullsafety.3
-    path: ../graphql
+  graphql: 5.0.0-nullsafety.3
+    # path: ../graphql
   gql_exec: ^0.3.0-nullsafety.1
   flutter:
     sdk: flutter
